@@ -1,0 +1,7 @@
+<application>
+  <component name="NotificationConfiguration" showBalloons="false">
+    <notification groupId="Execution" displayType="NONE" shouldLog="false" />
+    <notification groupId="IDE Usage Statistics" displayType="STICKY_BALLOON" />
+    <notification groupId="Plugins Suggestion" displayType="STICKY_BALLOON" shouldLog="false" />
+  </component>
+</application>
